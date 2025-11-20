@@ -1,0 +1,15 @@
+# Python venv
+venv/
+.env
+env/
+**/venv/
+**/.env
+
+# Telegram / contacts
+contacts.json
+
+# Project-specific secrets
+config/.env
+
+# macOS junk
+.DS_Store
